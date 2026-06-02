@@ -70,3 +70,7 @@ section {
     align-items: center;
     margin-bottom: 60px;
 }
+
+.content .img {
+    width: 50%;
+}
