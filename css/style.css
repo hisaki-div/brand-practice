@@ -87,3 +87,7 @@ footer {
     font-size: 0.875rem;
     padding: 20px 0;
 }
+
+footer .logo {
+    width: 110px;
+}
