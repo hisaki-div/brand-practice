@@ -63,3 +63,10 @@ a {
     margin: 0 auto;
     padding: 0 18px;
 }
+
+
+section {
+    display: flex;
+    align-items: center;
+    margin-bottom: 60px;
+}
